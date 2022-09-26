@@ -3748,4 +3748,5 @@
 - [Krish Jaiswal](https://github.com/KrishJ999)
 - [Ashwin Padmakumar](https://github.com/ashwinpadmakumar)
 - [Arjun](https://github.com/Arjundotadex)
+- [Jai](https://github.com/jpsxlr8)
 - <!-- prettier-ignore-end -->
